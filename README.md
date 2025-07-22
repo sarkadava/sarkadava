@@ -7,9 +7,13 @@ My name is Šárka and I am currently working on my PhD thesis. I am based betwe
 🌱 I’m currently learning computer vision methods for studying human and animal movement,  
 
 I’m looking to collaborate on...
+
 🐒 developing tools for tracking and classifying animal movement
+
 💪 comparing different gesture annotations schemes against biomechanical definitions of movement
+
 🤡 establish meaning-to-movement mappings in silent gestures
+
   
 📫 How to reach me: kadava[at]leibniz-zas[dot]de
 😄 Pronouns: she/her
