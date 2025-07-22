@@ -14,7 +14,7 @@ I’m looking to collaborate on...
 
 🤡 establish meaning-to-movement mappings in silent gestures
 
-
+-------------------------------------------------------------
   
 📫 How to reach me: kadava[at]leibniz-zas[dot]de
 
