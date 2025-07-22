@@ -4,7 +4,9 @@ My name is Šárka and I am currently working on my PhD thesis. I am based betwe
 
 🔭 I’m currently working on a charade-like experiment in which people express meanings in different modalities. I investigate whether they become more 'effortful' when they need to overcome a misunderstanding.
 
-🌱 I’m currently learning computer vision methods for studying human and animal movement,  
+🌱 I’m currently learning computer vision methods for studying human and animal movement
+
+-------------------------------------------------------------
 
 I’m looking to collaborate on...
 
